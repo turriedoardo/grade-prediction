@@ -1,6 +1,6 @@
 # Students Final Grade Predictions
 
-In this project, I've managed to predict the final grade of some portuguese students.
+In this project, I've managed to predict the final exam grade of some Portuguese language students.
 
 I considered many features for each of them, ranging from their family background to the time they spend hanging out with friends, passing through the weekly alcohol consumption.
 
